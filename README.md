@@ -5,7 +5,7 @@
 Desenvolvido por:
 <br>-Aladar Pinoti
 <br>-Daniel Lopes
-<br>-Guilherme Rodrigues <a href="https://github.com/GuilhermeRodrigues2201">
+<br>-Guilherme Rodrigues <a href="https://github.com/GuilhermeRodrigues2201"> GitHub</a>
 <br>-Gustavo Antônio
   
 </p>
