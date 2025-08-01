@@ -4,9 +4,9 @@
 <br>
 Desenvolvido por:
 <br>-Aladar Pinoti
-<br>Daniel Lopes
-<br>Guilherme Rodrigues <a link="https://github.com/GuilhermeRodrigues2201">Github</a>
-<br>Gustavo Antônio
+<br>-Daniel Lopes
+<br>-Guilherme Rodrigues <a href="https://github.com/GuilhermeRodrigues2201">
+<br>-Gustavo Antônio
   
 </p>
 
