@@ -1,6 +1,13 @@
 <h1 color="purple">Stingray</h1>
 <p>
   Stingray é um projeto desenvolvido para a metéria de programação web 2, ministrado pelo professor ronildo
+<br>
+Desenvolvido por:
+<br>-Aladar Pinoti
+<br>Daniel Lopes
+<br>Guilherme Rodrigues@GuilhermeRodrigues2201
+<br>Gustavo Antônio
+  
 </p>
 
 ## My skills
