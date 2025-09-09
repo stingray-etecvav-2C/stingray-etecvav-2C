@@ -11,7 +11,7 @@ Stingray não é apenas um sistema; é eficiência em ação. Criado para quem v
 <div align="center">
 
 | [<img src="https://github.com/GuilhermeRodrigues2201.png" width="100">](https://github.com/GuilhermeRodrigues2201) | [<img src="https://github.com/GustavoLima3.png" width="100">](https://github.com/GustavoLima3) | [<img src="https://github.com/aladarmz.png" width="100">](https://github.com/aladarmz)|
-<br>|---|---|---|<br>
+|---|---|---|
 | **Guilherme Rodrigues** | **Gustavo Lima** | **Aladar Pinoti** |
 
 </div>
