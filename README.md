@@ -1,6 +1,6 @@
 ![Header]()
 
-## Descrição para o Projeto Fictício "Fatal Venom"
+## Descrição para o Projeto Fictício "Stingray"
 
 Esta descrição foi criada para a loja fictícia Stingray, um projeto desenvolvido para o curso técnico em Desenvolvimento de Sistemas.
 
