@@ -1,4 +1,4 @@
-![Header](https://github.com/user-attachments/assets/d6ddf088-a774-4165-9826-afa9e5f65c11)
+![Header]()
 
 ## Descrição para o Projeto Fictício "Fatal Venom"
 
