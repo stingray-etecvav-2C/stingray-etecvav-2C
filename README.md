@@ -1,4 +1,5 @@
-![Header](https://github.com/stingray-etecvav-2C/stingray-etecvav-2C/issues/1#issue-3396292028)
+![Header](<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/816f47da-7098-4aa9-ac9b-d2beebab4a5e" />
+)
 
 ## Descrição para o Projeto Fictício "Stingray"
 
